@@ -1,0 +1,8 @@
+DEBUG=on
+SECRET_KEY=ozl=j#x-$z20s3p-7x6rx@!1bnf+j^*f*-8l_qi51k_5yz9@1y
+DATABASE_URL=mysql://root@127.0.0.1:3306/kungfucms
+LANGUAGE_CODE=zh-hans
+TIME_ZONE=Asia/Shanghai
+DOMAIN_NAME=api.kungfucms.com
+INIT_SUPERUSER=13811754531
+INIT_SUPERUSER_PASSWORD=20s3pbnf+j^*
